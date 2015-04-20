@@ -2,5 +2,5 @@ stable version
 
 dev ongoing
 
-bug fixes
-bug fixes
+bug fixes release
+bug fixes release
