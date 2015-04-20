@@ -1,3 +1,6 @@
 stable version
 
 develop
+
+bugs fixes 1.0
+tweaks 1.0
