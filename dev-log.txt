@@ -3,3 +3,7 @@ stable version
 develop
 develop1
 develop2
+
+bugs fixes 1.0
+tweaks 1.0
+
