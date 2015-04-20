@@ -1,7 +1,2 @@
 stable version
 
-dev
-
-feature
-
-feature2
